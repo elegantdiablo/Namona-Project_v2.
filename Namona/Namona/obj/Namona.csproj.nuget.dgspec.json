@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\Namona.csproj": {}
+    "C:\\Users\\User\\Desktop\\project\\Namona_v2\\Namona_v2\\Namona_v2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\Namona.csproj": {
+    "C:\\Users\\User\\Desktop\\project\\Namona_v2\\Namona_v2\\Namona_v2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\Namona.csproj",
-        "projectName": "Namona",
-        "projectPath": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\Namona.csproj",
-        "packagesPath": "C:\\Users\\abdel.zaher.amir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdel.zaher.amir\\Desktop\\Namona\\Namona\\Namona\\obj\\",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\project\\Namona_v2\\Namona_v2\\Namona_v2.csproj",
+        "projectName": "Namona_v2",
+        "projectPath": "C:\\Users\\User\\Desktop\\project\\Namona_v2\\Namona_v2\\Namona_v2.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\project\\Namona_v2\\Namona_v2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\abdel.zaher.amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
